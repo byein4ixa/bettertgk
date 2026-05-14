@@ -6,8 +6,8 @@ betterdiscord/vencord recoded for ТГК (telegram)
 
 #
 Updates;
-* BetterTGK: v3
-* Launcher: v1
+* BetterTGK: v5
+* Launcher: v2
 
 
 #
