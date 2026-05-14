@@ -9,5 +9,5 @@ betterdiscord/vencord recoded for ТГК (telegram)
 * Launcher: v1
 
 
-
+#
 ** also keep in mind that older versions dont work cuz of the tgk updates **
